@@ -1,6 +1,6 @@
-# ChemSearch DataEdit
+# ChemSearch Database Editor
 
-Small desktop editor for the ChemSearch offline Chemical Database assets.
+Small desktop editor for the ChemSearch offline Chemical Database assets made with python.
 
 ## Run
 
